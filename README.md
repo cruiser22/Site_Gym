@@ -1,16 +1,14 @@
-# Site d'entrainement HTML, Css , JS
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Site d'entrainement HTML, Css , JS
 
 ## HTML 
 
 Méthode BEM 
 
-### CSS 
+## CSS 
 
 GRID / Parallax 
 
-### JS 
+## JS 
 
 Nav Bar / Picture selection 
 
