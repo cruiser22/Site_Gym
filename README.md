@@ -14,4 +14,4 @@ Nav Bar / Picture selection
 
 
 
-Thnaks 
+Thanks 
